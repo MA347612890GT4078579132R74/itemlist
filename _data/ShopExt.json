@@ -2201,7 +2201,7 @@
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "CreepJoiner",
       "enabled": true,
-      "name": "human",
+      "name": "creepjoiner",
       "price": 2917
     }
   ]
