@@ -3,6 +3,7 @@ rss: false
 email_address:
 behance:
 bitbucket:
+bluesky: numbinator.bsky.social
 dribbble:
 facebook:
 flickr:
@@ -18,10 +19,10 @@ stack_overflow:
 stack_exchange:
 steam:
 tumblr:
-twitter: numbinator
+twitter: Numbinator
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+youtube: numbinator
 twitch: numbinator
 tiktok:
 
