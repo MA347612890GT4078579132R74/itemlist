@@ -5695,6 +5695,84 @@
       "price": 167
     },
     {
+      "abr": "smallcargocompartment(bulk)",
+      "category": "Misc",
+      "defname": "jdgg_SqCargoHold",
+      "price": 558
+    },
+    {
+      "abr": "cargohold(bulk)",
+      "category": "Misc",
+      "defname": "jdgg_CargoHold",
+      "price": 925
+    },
+    {
+      "abr": "refrigeratedcargohold(bulk)",
+      "category": "Misc",
+      "defname": "jdgg_RefCargoHold",
+      "price": 1208
+    },
+    {
+      "abr": "2x2cargohold(bulk)",
+      "category": "Misc",
+      "defname": "jdgg_2x2CargoHold",
+      "price": 1817
+    },
+    {
+      "abr": "massivecargohold(bulk)",
+      "category": "Misc",
+      "defname": "jdgg_MassCargoHold",
+      "price": 6467
+    },
+    {
+      "abr": "smallcargocompartment",
+      "category": "Misc",
+      "defname": "jdgg_SmCargoComp",
+      "price": 327
+    },
+    {
+      "abr": "cargohold",
+      "category": "Misc",
+      "defname": "jdgg_nCargoHold",
+      "price": 692
+    },
+    {
+      "abr": "refrigeratedcargohold",
+      "category": "Misc",
+      "defname": "jdgg_nRefCargoHold",
+      "price": 867
+    },
+    {
+      "abr": "2x2cargohold",
+      "category": "Misc",
+      "defname": "jdgg_n2x2CargoHold",
+      "price": 1317
+    },
+    {
+      "abr": "3x3cargohold",
+      "category": "Misc",
+      "defname": "jdgg_n3x3CargoHold",
+      "price": 1817
+    },
+    {
+      "abr": "massivecargohold",
+      "category": "Misc",
+      "defname": "jdgg_nMassCargoHold",
+      "price": 4333
+    },
+    {
+      "abr": "massivecargohold(dynamic)",
+      "category": "Misc",
+      "defname": "jdgg_XMCH",
+      "price": 4017
+    },
+    {
+      "abr": "massivecargohold(dynavac)",
+      "category": "Misc",
+      "defname": "jdgg_XMCHVB",
+      "price": 4183
+    },
+    {
       "abr": "supportermonumentcenter",
       "category": "Furniture",
       "defname": "GW_FancyObelisk",
@@ -10237,17 +10315,11 @@
       "price": 3333
     },
     {
-      "abr": "2x2cargohold(bulk)",
-      "category": "Misc",
-      "defname": "jdgg_2x2CargoHold",
-      "price": 1817
-    },
-    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
     }
   ],
-  "total": 1708
+  "total": 1720
 }
