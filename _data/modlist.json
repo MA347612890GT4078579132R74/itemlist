@@ -24,6 +24,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oganesson",
+    "name": "[Og] Repair Your Gear",
+    "steamId": "3513376486",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Fridge",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "seobongzu",
     "name": "[sbz] Gravship Storage",
     "steamId": null,
@@ -252,6 +264,12 @@
     "version": "1.6.3"
   },
   {
+    "author": "sumghai and Dubwise",
+    "name": "Replimat",
+    "steamId": "1715402900",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
@@ -384,6 +402,12 @@
     "version": null
   },
   {
+    "author": "Kilo",
+    "name": "VacSlipsuit",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Smash Phil and Sarg Bjornson",
     "name": "Vanilla Achievements Expanded",
     "steamId": "2288125657",
@@ -430,6 +454,12 @@
     "name": "Vanilla Helixien Gas Expanded",
     "steamId": "2877699803",
     "version": "1.0.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -516,6 +546,12 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "Andromeda",
+    "name": "Useful Marks",
+    "steamId": "3506573327",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, xrushha and legodude17",
     "name": "Vanilla Factions Expanded - Deserters",
     "steamId": "3025493377",
@@ -584,6 +620,12 @@
   {
     "author": "SirVan",
     "name": "Van's Retexture : Hemogen Vials ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Mechanitor",
     "steamId": null,
     "version": null
   },
