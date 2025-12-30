@@ -10987,11 +10987,23 @@
       "price": 178
     },
     {
+      "abr": "pfstable(1x1)b",
+      "category": "Furniture",
+      "defname": "PFS_TableMiniB",
+      "price": 84
+    },
+    {
+      "abr": "pfstable(2x1)b",
+      "category": "Furniture",
+      "defname": "PFS_TableC",
+      "price": 93
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
     }
   ],
-  "total": 1832
+  "total": 1834
 }
