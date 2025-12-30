@@ -144,6 +144,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Wiri",
+    "name": "Compositable Loadouts",
+    "steamId": "2679126859",
+    "version": "1.0.0+026366731a1f058946a506df00034aaeb90e994a"
+  },
+  {
     "author": "LingLuo",
     "name": "Customize Room Role",
     "steamId": null,
@@ -328,6 +334,12 @@
     "name": "Simple sidearms",
     "steamId": "927155256",
     "version": "1.4.6.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Smart Medicine - Continued",
+    "steamId": "3526251680",
+    "version": "1.0.0+c1c8001c4a9f1c08976dc497e2d100fb8fd720b4"
   },
   {
     "author": "Sarg",
@@ -526,6 +538,12 @@
     "name": "Intimacy - A Lovin' Expansion",
     "steamId": "3498422643",
     "version": "0.1.0.0"
+  },
+  {
+    "author": "Various",
+    "name": "Mod Medicine Patch 1.6",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "RebelRabbit, Taranchuk, ilyvion, Vectorial1024 and AssassinsBro",
