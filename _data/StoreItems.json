@@ -11003,7 +11003,397 @@
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
+    },
+    {
+      "abr": "aberrationredirector",
+      "category": "Archite injection lab",
+      "defname": "VQEA_AberrationRedirector",
+      "price": 1667
+    },
+    {
+      "abr": "absoluteterrorfieldgenerator",
+      "category": "Security",
+      "defname": "ATFieldGenerator",
+      "price": 15967
+    },
+    {
+      "abr": "absorptiondish",
+      "category": "Power",
+      "defname": "ARKPPP_PowerBeamAbsorptionDish",
+      "price": 19125
+    },
+    {
+      "abr": "adrelaytower",
+      "category": "Power",
+      "defname": "ARKPPP_ADRelayTower",
+      "price": 1008
+    },
+    {
+      "abr": "advancedwpnemitter",
+      "category": "Power",
+      "defname": "ARKPPP_WirelessPowerEmitterAdvanced",
+      "price": 13250
+    },
+    {
+      "abr": "ancientbiobattery",
+      "category": "Power",
+      "defname": "VQEA_AncientBioBattery",
+      "price": 1333
+    },
+    {
+      "abr": "ancientchemfuelgenerator",
+      "category": "Power",
+      "defname": "VQEA_AncientChemfuelGenerator",
+      "price": 350
+    },
+    {
+      "abr": "ancientcookingstation",
+      "category": "Production",
+      "defname": "VqEA_AncientCookingStation",
+      "price": 750
+    },
+    {
+      "abr": "ancientfoosballtable",
+      "category": "Recreation",
+      "defname": "VQEA_AncientFoosballTable",
+      "price": 199
+    },
+    {
+      "abr": "ancientgreenbed",
+      "category": "Production",
+      "defname": "VQEA_AncientGreenbed",
+      "price": 300
+    },
+    {
+      "abr": "ancienthospitalarmchair",
+      "category": "Furniture",
+      "defname": "VQEA_AncientHospitalArmchair",
+      "price": 85
+    },
+    {
+      "abr": "ancienthospitalbench",
+      "category": "Furniture",
+      "defname": "VQEA_AncientHospitalBench",
+      "price": 58
+    },
+    {
+      "abr": "ancienthospitalcrib",
+      "category": "Furniture",
+      "defname": "VQEA_AncientHospitalCrib",
+      "price": 165
+    },
+    {
+      "abr": "ancientworkshop",
+      "category": "Production",
+      "defname": "VQEA_AncientWorkshop",
+      "price": 1083
+    },
+    {
+      "abr": "architepathingarray",
+      "category": "Archite injection lab",
+      "defname": "VQEA_ArchitePathingArray",
+      "price": 2608
+    },
+    {
+      "abr": "architerecycler",
+      "category": "Archite injection lab",
+      "defname": "VQEA_ArchiteRecycler",
+      "price": 750
+    },
+    {
+      "abr": "archogeninjector",
+      "category": "Archite injection lab",
+      "defname": "VQEA_ArchogenInjector",
+      "price": 2417
+    },
+    {
+      "abr": "cognitiverecoveryarray",
+      "category": "Archite injection lab",
+      "defname": "VQEA_CognitiveRecoveryArray",
+      "price": 533
+    },
+    {
+      "abr": "complexityharmonizer",
+      "category": "Archite injection lab",
+      "defname": "VQEA_ComplexityHarmonizer",
+      "price": 2083
+    },
+    {
+      "abr": "draincasket",
+      "category": "Misc",
+      "defname": "VRE_Draincasket",
+      "price": 1308
+    },
+    {
+      "abr": "genecentrifuge",
+      "category": "Misc",
+      "defname": "RS_GeneCentrifuge",
+      "price": 850
+    },
+    {
+      "abr": "generepository",
+      "category": "Misc",
+      "defname": "RS_GeneRepository",
+      "price": 2483
+    },
+    {
+      "abr": "genevault",
+      "category": "Misc",
+      "defname": "RS_GeneVault",
+      "price": 1683
+    },
+    {
+      "abr": "genomicattenuator",
+      "category": "Archite injection lab",
+      "defname": "VQEA_GenomicAttenuator",
+      "price": 917
+    },
+    {
+      "abr": "hemodynamicaccelerator",
+      "category": "Misc",
+      "defname": "VRE_HemodynamicAccelerator",
+      "price": 1850
+    },
+    {
+      "abr": "hemogendrain",
+      "category": "Furniture",
+      "defname": "VRE_HemogenDrain",
+      "price": 313
+    },
+    {
+      "abr": "hemogensolidifier",
+      "category": "Misc",
+      "defname": "VRE_HemogenSolidifier",
+      "price": 1067
+    },
+    {
+      "abr": "hemogentap",
+      "category": "Furniture",
+      "defname": "VRE_HemogenTap",
+      "price": 329
+    },
+    {
+      "abr": "hemogenvalve",
+      "category": "Misc",
+      "defname": "VRE_HemogenValve",
+      "price": 34
+    },
+    {
+      "abr": "hemogenvat",
+      "category": "Misc",
+      "defname": "VRE_HemogenVat",
+      "price": 908
+    },
+    {
+      "abr": "hemogenvial(animal)",
+      "category": "Foods",
+      "defname": "VRE_HemogenPack_Animal",
+      "price": 8
+    },
+    {
+      "abr": "hemogenvial(corpse)",
+      "category": "Foods",
+      "defname": "VRE_HemogenPack_Corpse",
+      "price": 8
+    },
+    {
+      "abr": "hemogenvial(sanguophage)",
+      "category": "Foods",
+      "defname": "VRE_HemogenPack_Sanguophage",
+      "price": 8
+    },
+    {
+      "abr": "invocationmatrix",
+      "category": "Misc",
+      "defname": "VRE_InvocationMatrix",
+      "price": 1333
+    },
+    {
+      "abr": "isolinearprocessor",
+      "category": "Manufactured",
+      "defname": "IsolinearProcessor",
+      "price": 3333
+    },
+    {
+      "abr": "lwpnemitter",
+      "category": "Power",
+      "defname": "ARKPPP_LocalWirelessPowerEmitter",
+      "price": 14308
+    },
+    {
+      "abr": "medpod",
+      "category": "Furniture",
+      "defname": "MedPodStandard",
+      "price": 133333
+    },
+    {
+      "abr": "medpodlux",
+      "category": "Furniture",
+      "defname": "MedPodLux",
+      "price": 158333
+    },
+    {
+      "abr": "mutageninhibitorcore",
+      "category": "Archite injection lab",
+      "defname": "VQEA_MutagenInhibitorCore",
+      "price": 1667
+    },
+    {
+      "abr": "neurostabilizerarray",
+      "category": "Archite injection lab",
+      "defname": "VQEA_NeurostabilizerArray",
+      "price": 575
+    },
+    {
+      "abr": "patientgown",
+      "category": "Misc",
+      "defname": "VQEA_Apparel_PatientGown",
+      "price": 167
+    },
+    {
+      "abr": "portablewpnreceiver",
+      "category": "Misc",
+      "defname": "ARKPPP_WirelessPortablePowerReceptor",
+      "price": 2342
+    },
+    {
+      "abr": "portalelwpnemitter",
+      "category": "Misc",
+      "defname": "ARKPPP_LocalWirelessPortablePowerEmitter",
+      "price": 4383
+    },
+    {
+      "abr": "psychofluidwell",
+      "category": "Misc",
+      "defname": "VRE_PsychofluidWell",
+      "price": 4025
+    },
+    {
+      "abr": "rapidinfusionpump",
+      "category": "Archite injection lab",
+      "defname": "VQEA_RapidInfusionPump",
+      "price": 633
+    },
+    {
+      "abr": "rejectionbuffercoil",
+      "category": "Archite injection lab",
+      "defname": "VQEA_RejectionBufferCoil",
+      "price": 667
+    },
+    {
+      "abr": "rustedhospitalbed",
+      "category": "Furniture",
+      "defname": "VQEA_RustedHospitalBed",
+      "price": 260
+    },
+    {
+      "abr": "satellitetargetingsystem",
+      "category": "Power",
+      "defname": "ARKPPP_PowerBeamSatelliteTargetingSystem",
+      "price": 12258
+    },
+    {
+      "abr": "scalpel",
+      "category": "Melee weapons",
+      "defname": "VQEA_MeleeWeapon_Scalpel",
+      "price": 205
+    },
+    {
+      "abr": "smallhemogenamplifier",
+      "category": "Misc",
+      "defname": "VRE_SmallHemogenAmplifier",
+      "price": 483
+    },
+    {
+      "abr": "smallhemopump",
+      "category": "Misc",
+      "defname": "VRE_SmallHemopump",
+      "price": 322
+    },
+    {
+      "abr": "splicefiend",
+      "category": "Animals",
+      "defname": "VQEA_Splicefiend",
+      "price": 17
+    },
+    {
+      "abr": "spliceframeuplink",
+      "category": "Archite injection lab",
+      "defname": "VQEA_SpliceframeUplink",
+      "price": 1000
+    },
+    {
+      "abr": "splicehulk",
+      "category": "Animals",
+      "defname": "VQEA_Splicehulk",
+      "price": 17
+    },
+    {
+      "abr": "spliceling",
+      "category": "Animals",
+      "defname": "VQEA_Spliceling",
+      "price": 17
+    },
+    {
+      "abr": "splicetoot",
+      "category": "Animals",
+      "defname": "VQEA_Splicetoot",
+      "price": 17
+    },
+    {
+      "abr": "traitselectionprism",
+      "category": "Archite injection lab",
+      "defname": "VQEA_TraitSelectionPrism",
+      "price": 2083
+    },
+    {
+      "abr": "vetpod",
+      "category": "Furniture",
+      "defname": "MedPodAnimal",
+      "price": 141667
+    },
+    {
+      "abr": "vetpodlarge",
+      "category": "Furniture",
+      "defname": "MedPodAnimalMedium",
+      "price": 145833
+    },
+    {
+      "abr": "vetpodmega",
+      "category": "Furniture",
+      "defname": "MedPodAnimalBig",
+      "price": 162500
+    },
+    {
+      "abr": "voidspike",
+      "category": "Misc",
+      "defname": "RS_DarkArchiteSpike",
+      "price": 833
+    },
+    {
+      "abr": "wheeledbed",
+      "category": "Furniture",
+      "defname": "VQEA_WheeledBed",
+      "price": 207
+    },
+    {
+      "abr": "wpnemitter",
+      "category": "Power",
+      "defname": "ARKPPP_WirelessPowerEmitter",
+      "price": 5600
+    },
+    {
+      "abr": "wpnreceiver",
+      "category": "Power",
+      "defname": "ARKPPP_WirelessPowerReceptor",
+      "price": 5367
+    },
+    {
+      "abr": "xenogermduplicator",
+      "category": "Misc",
+      "defname": "RS_XenoGermDuplicator",
+      "price": 1375
     }
   ],
-  "total": 1834
+  "total": 1899
 }
