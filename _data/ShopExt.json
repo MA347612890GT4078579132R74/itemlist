@@ -2177,6 +2177,28 @@
       },
       "defName": "VME_Elder",
       "name": "elder"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's body accepts archite alterations with unnatural ease. he will never suffer rejections during the injection process.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Quests Expanded - Ancients",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VQE_IdealPatient",
+      "name": "idealpatient"
     }
   ],
   "races": [
