@@ -54,6 +54,12 @@
     "version": null
   },
   {
+    "author": "ServalCat1131.kindseal.kitsune-AyaLyn",
+    "name": "Absolute Terror Field",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "darjeeling",
     "name": "Advanced Battle Cloak",
     "steamId": null,
@@ -228,6 +234,12 @@
     "version": "2025.8.10.12"
   },
   {
+    "author": "sumghai",
+    "name": "MedPod",
+    "steamId": "2153065191",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "erdelf",
     "name": "MinifyEverything",
     "steamId": "872762753",
@@ -258,10 +270,28 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "lioness131.smallmine",
+    "name": "Orca Shuttle",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ponpeco",
     "name": "Ponpeco Furnitures : Sci-Fi",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Power++",
+    "steamId": "1771402217",
+    "version": "1.8.7.1"
+  },
+  {
+    "author": "DawnsGlow",
+    "name": "Quality Colors (Continued)",
+    "steamId": "3513846773",
+    "version": "1.0.0.0"
   },
   {
     "author": "Mlie",
@@ -282,6 +312,12 @@
     "version": "1.6.2"
   },
   {
+    "author": "Helixien",
+    "name": "ReSplice: Core",
+    "steamId": "3236303965",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Phonicmas",
     "name": "RimDark 40k - Framework",
     "steamId": "3267464767",
@@ -298,6 +334,12 @@
     "name": "RimSaves",
     "steamId": "1713367505",
     "version": "2024.0.1.27"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal Style Pack - Murica",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "aRandomKiwi",
@@ -490,6 +532,18 @@
     "name": "Vanilla Outposts Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk and Ferny",
+    "name": "Vanilla Quests Expanded - Ancients",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Races Expanded - Sanguophage",
+    "steamId": "2963116383",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Taranchuk",
