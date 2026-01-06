@@ -522,12 +522,6 @@
     "version": "1.0.1.0"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Ideology Expanded - Sophian Style",
     "steamId": null,
@@ -606,12 +600,6 @@
     "version": null
   },
   {
-    "author": "turkler",
-    "name": "Intimacy - A Lovin' Expansion",
-    "steamId": "3498422643",
-    "version": "0.1.0.0"
-  },
-  {
     "author": "Various",
     "name": "Mod Medicine Patch 1.6",
     "steamId": null,
@@ -648,6 +636,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, xrushha and legodude17",
     "name": "Vanilla Factions Expanded - Deserters",
     "steamId": "3025493377",
@@ -672,6 +666,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Textures Expanded - Variations",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Elseud and Sir Van",
     "name": "Biotech Mechanoid Retexture",
     "steamId": null,
@@ -688,12 +688,6 @@
     "name": "GrimWorld 40,000 - Aspectus Imperialis",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "turkler",
-    "name": "Intimacy - Gender Works",
-    "steamId": "3534254491",
-    "version": "0.1.0.0"
   },
   {
     "author": "cedaro",
@@ -738,6 +732,18 @@
     "version": null
   },
   {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Cooking Expanded - Haute",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, Taranchuk, Reann Shepard and Sir Van",
     "name": "Vanilla Psycasts Expanded - Hemosage",
     "steamId": "2990596478",
@@ -750,9 +756,21 @@
     "version": "1.0.2.0"
   },
   {
+    "author": "turkler",
+    "name": "Intimacy - A Lovin' Expansion",
+    "steamId": "3498422643",
+    "version": "0.1.0.0"
+  },
+  {
     "author": "Phonicmas, Mewn Goddess and Grim Cheese",
     "name": "RimDark 40k - Black Templars",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "turkler",
+    "name": "Intimacy - Gender Works",
+    "steamId": "3534254491",
+    "version": "0.1.0.0"
   }
 ]
