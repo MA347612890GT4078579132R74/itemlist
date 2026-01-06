@@ -192,6 +192,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Slime-Senpai",
+    "name": "EndlessGrowth",
+    "steamId": "2894401734",
+    "version": "1.5.2.0+61694815f123034bf8a029db2bbc8e693a4d9214"
+  },
+  {
     "author": "WalterHawkwood",
     "name": "Floors Are (Absolutely) Worthless",
     "steamId": null,
@@ -208,6 +214,12 @@
     "name": "Intellectual Matters",
     "steamId": "3570236251",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "4.2+22e6c6fce244bc45e278cc012ce945edac7b00b6"
   },
   {
     "author": "Mlie",
@@ -381,7 +393,7 @@
     "author": "Uuugggg",
     "name": "Smart Medicine - Continued",
     "steamId": "3526251680",
-    "version": "1.0.0+c1c8001c4a9f1c08976dc497e2d100fb8fd720b4"
+    "version": "1.0.0+67ae2cffab391ab7594423703ca5e175bd64c2f8"
   },
   {
     "author": "Sarg",
@@ -540,6 +552,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Highmate",
+    "steamId": "2995385834",
+    "version": "1.0.1.0"
+  },
+  {
     "author": "Oskar Potocki, Sarg Bjornson and Erin",
     "name": "Vanilla Races Expanded - Sanguophage",
     "steamId": "2963116383",
@@ -606,6 +624,12 @@
     "version": "0.3.0"
   },
   {
+    "author": "Helixien",
+    "name": "ReSplice: Charmweavers",
+    "steamId": "3131996691",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Jaxe",
     "name": "Smart Minify",
     "steamId": "2815301242",
@@ -670,6 +694,12 @@
     "name": "Intimacy - Gender Works",
     "steamId": "3534254491",
     "version": "0.1.0.0"
+  },
+  {
+    "author": "cedaro",
+    "name": "Mad Skills+",
+    "steamId": "3016488934",
+    "version": "1.0.0.0"
   },
   {
     "author": "Phonicmas, Mewn Goddess, Grim Cheese and UnfortunateДруг",
