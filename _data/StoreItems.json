@@ -11705,7 +11705,13 @@
 		"price": 458,
 		"category": "Uncooked soups",
 		"defname": "VCE_UncookedSoupLavish"
-	}
+	},
+	{
+		"abr": "uncookedsimplesoup",
+		"price": 161,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupSimple"
+	},
 	],
 	"total": 1952
 }
