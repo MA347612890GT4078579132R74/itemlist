@@ -7501,12 +7501,6 @@
 		"defname": "GW_WarhammerTable"
 	},
 	{
-		"abr": "plasmacharge",
-		"price": 164,
-		"category": "Security",
-		"defname": "Trap_plasmaMine"
-	},
-	{
 		"abr": "fenrisianale",
 		"price": 42,
 		"category": "Drugs",
@@ -11712,6 +11706,12 @@
 		"category": "Uncooked soups",
 		"defname": "VCE_UncookedSoupSimple"
 	},
+	{
+		"abr": "tanktrapa",
+		"price": 68,
+		"category": "Misc",
+		"defname": "DefensiveTankTrapA"
+	},
 	],
-	"total": 1952
+	"total": 1953
 }
