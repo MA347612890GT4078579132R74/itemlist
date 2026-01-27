@@ -11712,6 +11712,12 @@
 		"category": "Misc",
 		"defname": "DefensiveTankTrapA"
 	},
+	{
+		"abr": "tanktrapb",
+		"price": 68,
+		"category": "Misc",
+		"defname": "DefensiveTankTrapB"
+	}
 	],
 	"total": 1953
 }
