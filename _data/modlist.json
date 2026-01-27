@@ -192,6 +192,12 @@
     "version": "1.6.1"
   },
   {
+    "author": "Zeracronius",
+    "name": "Dynamic Trade Interface",
+    "steamId": "3020706506",
+    "version": "1.6.0.4+83669dbe931cd3de14fb1825998c73af47165abd"
+  },
+  {
     "author": "Vectorial1024",
     "name": "Elite Bionics Framework",
     "steamId": "1665403571",
@@ -327,7 +333,7 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.6.2"
+    "version": "1.6.4"
   },
   {
     "author": "Helixien",
@@ -450,12 +456,6 @@
     "version": null
   },
   {
-    "author": "Hob Took",
-    "name": "Trade UI Revised",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "CaptainGeorge",
     "name": "Traders Have Money",
     "steamId": null,
@@ -472,6 +472,12 @@
     "name": "UI Not Included: Customizable UI Overhaul",
     "steamId": "2588873455",
     "version": "1.2.9447.18333"
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Unlimited Threat Scale",
+    "steamId": "2562732435",
+    "version": "1.0.0.0"
   },
   {
     "author": "Nephlite, Maxim and Viceroy",
