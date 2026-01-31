@@ -11717,7 +11717,505 @@
 		"price": 68,
 		"category": "Misc",
 		"defname": "DefensiveTankTrapB"
+	},
+	{
+		"abr": "advancedbattery",
+		"price": 750,
+		"category": "Power",
+		"defname": "VFE_AdvancedBattery"
+	},
+	{
+		"abr": "advancedgeothermalgenerator",
+		"price": 3058,
+		"category": "Power",
+		"defname": "VPE_AdvancedGeothermalGenerator"
+	},
+	{
+		"abr": "advancedsolargenerator",
+		"price": 1842,
+		"category": "Power",
+		"defname": "VFE_AdvancedSolarGenerator"
+	},
+	{
+		"abr": "advancedwatermillgenerator",
+		"price": 1817,
+		"category": "Power",
+		"defname": "VFE_AdvancedWatermillGenerator"
+	},
+	{
+		"abr": "advancedwindturbine",
+		"price": 1850,
+		"category": "Power",
+		"defname": "VFE_AdvancedWindTurbine"
+	},
+	{
+		"abr": "arc",
+		"price": 6417,
+		"category": "Power",
+		"defname": "VQE_Genetron_Basic"
+	},
+	{
+		"abr": "arccomponent",
+		"price": 917,
+		"category": "Manufactured",
+		"defname": "VQE_GenetronComponent"
+	},
+	{
+		"abr": "archotechskippack",
+		"price": 2408,
+		"category": "Utility",
+		"defname": "dvd_ArchotechSkippack"
+	},
+	{
+		"abr": "archotechviolencegenerator",
+		"price": 5667,
+		"category": "Special",
+		"defname": "VPE_ArchotechViolenceGenerator"
+	},
+	{
+		"abr": "atomicarc",
+		"price": 53783,
+		"category": "Power",
+		"defname": "VQE_Genetron_Atomic"
+	},
+	{
+		"abr": "backpackworkbench",
+		"price": 207,
+		"category": "Production",
+		"defname": "dvd_BackpackWorkbench"
+	},
+	{
+		"abr": "bloodrum",
+		"price": 70,
+		"category": "Drugs",
+		"defname": "Lambda_Bloodrum"
+	},
+	{
+		"abr": "bluefingerflesh",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Lambda_BlueCactusFlesh"
+	},
+	{
+		"abr": "cactusrum",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "Lambda_CactusRum"
+	},
+	{
+		"abr": "cactusrumstill",
+		"price": 128,
+		"category": "Production",
+		"defname": "Lambda_CactusRumStill"
+	},
+	{
+		"abr": "cactuswort",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "Lambda_CactusWort"
+	},
+	{
+		"abr": "chemfuel-boostedarc",
+		"price": 20717,
+		"category": "Power",
+		"defname": "VQE_Genetron_ChemfuelBoosted"
+	},
+	{
+		"abr": "chemfuel-chargedarc",
+		"price": 20717,
+		"category": "Power",
+		"defname": "VQE_Genetron_ChemfuelCharged"
+	},
+	{
+		"abr": "chemfuel-fortifiedarc",
+		"price": 26967,
+		"category": "Power",
+		"defname": "VQE_Genetron_ChemfuelFortified"
+	},
+	{
+		"abr": "chemfuel-poweredarc",
+		"price": 17733,
+		"category": "Power",
+		"defname": "VQE_Genetron_ChemfuelPowered"
+	},
+	{
+		"abr": "chewsticks",
+		"price": 2,
+		"category": "Foods",
+		"defname": "Lambda_Chewsticks"
+	},
+	{
+		"abr": "geothermalarc",
+		"price": 31833,
+		"category": "Power",
+		"defname": "VQE_Genetron_Geothermal"
+	},
+	{
+		"abr": "glittertechmedpack",
+		"price": 1925,
+		"category": "Utility",
+		"defname": "dvd_GlittertechMedpack"
+	},
+	{
+		"abr": "heat-poweredarc",
+		"price": 40000,
+		"category": "Power",
+		"defname": "VQE_Genetron_HeatPowered"
+	},
+	{
+		"abr": "hybridaeropack",
+		"price": 1342,
+		"category": "Utility",
+		"defname": "dvd_HybridAeropack"
+	},
+	{
+		"abr": "industrialchemfuelpoweredgenerator",
+		"price": 908,
+		"category": "Power",
+		"defname": "VFE_IndustrialChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "industrialgaspoweredgenerator",
+		"price": 908,
+		"category": "Power",
+		"defname": "VHGE_IndustrialHelixienGenerator"
+	},
+	{
+		"abr": "industrialwood-firedgenerator",
+		"price": 808,
+		"category": "Power",
+		"defname": "VFE_IndustrialWoodFiredGenerator"
+	},
+	{
+		"abr": "isotopicarc",
+		"price": 48533,
+		"category": "Power",
+		"defname": "VQE_Genetron_Isotopic"
+	},
+	{
+		"abr": "largeadvancedbattery",
+		"price": 1467,
+		"category": "Power",
+		"defname": "VFE_LargeAdvancedBattery"
+	},
+	{
+		"abr": "largebattery",
+		"price": 667,
+		"category": "Power",
+		"defname": "VFE_LargeBattery"
+	},
+	{
+		"abr": "largevanometricpowercell",
+		"price": 4000,
+		"category": "Special",
+		"defname": "VFE_LargeVanometricPowerCell"
+	},
+	{
+		"abr": "mechtechexopack",
+		"price": 1342,
+		"category": "Utility",
+		"defname": "dvd_MechanicalExopack"
+	},
+	{
+		"abr": "neotenicgrubpack",
+		"price": 883,
+		"category": "Utility",
+		"defname": "dvd_NeotenicGrubpack"
+	},
+	{
+		"abr": "nucleararc",
+		"price": 40367,
+		"category": "Power",
+		"defname": "VQE_Genetron_Nuclear"
+	},
+	{
+		"abr": "nuclearreactor",
+		"price": 4475,
+		"category": "Power",
+		"defname": "VPE_NuclearGenerator"
+	},
+	{
+		"abr": "portablechemfuelpoweredgenerator",
+		"price": 242,
+		"category": "Power",
+		"defname": "VFE_PortableChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "portablewood-firedgenerator",
+		"price": 189,
+		"category": "Power",
+		"defname": "VFE_PortableWoodFiredGenerator"
+	},
+	{
+		"abr": "psychicfoilpack",
+		"price": 313,
+		"category": "Utility",
+		"defname": "dvd_PsychicFoilpack"
+	},
+	{
+		"abr": "scoutleg",
+		"price": 1033,
+		"category": "Bionic",
+		"defname": "Lambda_ScoutLeg"
+	},
+	{
+		"abr": "smallbattery",
+		"price": 182,
+		"category": "Power",
+		"defname": "VFE_SmallBattery"
+	},
+	{
+		"abr": "smallvanometricpowercell",
+		"price": 667,
+		"category": "Special",
+		"defname": "VFE_SmallVanometricPowerCell"
+	},
+	{
+		"abr": "smokebrick",
+		"price": 42,
+		"category": "Drugs",
+		"defname": "Lambda_Smokebrick"
+	},
+	{
+		"abr": "spacerpack",
+		"price": 900,
+		"category": "Utility",
+		"defname": "dvd_SpacerPack"
+	},
+	{
+		"abr": "steam-poweredarc",
+		"price": 34525,
+		"category": "Power",
+		"defname": "VQE_Genetron_SteamPowered"
+	},
+	{
+		"abr": "supremeframe",
+		"price": 1258,
+		"category": "Manufactured",
+		"defname": "dvd_SupremeFrame"
+	},
+	{
+		"abr": "thermal-ventarc",
+		"price": 37408,
+		"category": "Power",
+		"defname": "VQE_Genetron_ThermalVent"
+	},
+	{
+		"abr": "tidalgenerator",
+		"price": 1500,
+		"category": "Power",
+		"defname": "VFE_TidalGenerator"
+	},
+	{
+		"abr": "uranium-poweredarc",
+		"price": 36800,
+		"category": "Power",
+		"defname": "VQE_Genetron_UraniumPowered"
+	},
+	{
+		"abr": "voidsentpulsepack",
+		"price": 2008,
+		"category": "Utility",
+		"defname": "dvd_VoidsentPulsepack"
+	},
+	{
+		"abr": "wood-blastingarc",
+		"price": 12667,
+		"category": "Power",
+		"defname": "VQE_Genetron_WoodBlasting"
+	},
+	{
+		"abr": "wood-firedarc",
+		"price": 7250,
+		"category": "Power",
+		"defname": "VQE_Genetron_WoodFired"
+	},
+	{
+		"abr": "wood-fueledarc",
+		"price": 8942,
+		"category": "Power",
+		"defname": "VQE_Genetron_WoodFueled"
+	},
+	{
+		"abr": "wood-poweredarc",
+		"price": 10900,
+		"category": "Power",
+		"defname": "VQE_Genetron_WoodPowered"
+	},
+	{
+		"abr": "wovenharvestpack",
+		"price": 242,
+		"category": "Utility",
+		"defname": "dvd_WovenHarvestpack"
+	},
+	{
+		"abr": "adamantium",
+		"price": 33,
+		"category": "Raw resources",
+		"defname": "Seg_Adamantium"
+	},
+	{
+		"abr": "arcmaul",
+		"price": 808,
+		"category": "Mechanicus melee weapons",
+		"defname": "Seg_COTO_MeleeWeapon_ArcMaul"
+	},
+	{
+		"abr": "arcpistol",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "Seg_COTO_Gun_ArcPistol"
+	},
+	{
+		"abr": "arcrifle",
+		"price": 1075,
+		"category": "Ranged weapons",
+		"defname": "Seg_COTO_Gun_ArcRifle"
+	},
+	{
+		"abr": "ceramite",
+		"price": 5,
+		"category": "Raw resources",
+		"defname": "Seg_Ceramite"
+	},
+	{
+		"abr": "ceramitefurnace",
+		"price": 675,
+		"category": "Production",
+		"defname": "Seg_COTO_CeramiteFurnace"
+	},
+	{
+		"abr": "galvanicrifle",
+		"price": 1008,
+		"category": "Ranged weapons",
+		"defname": "Seg_COTO_Gun_GalvanicRifle"
+	},
+	{
+		"abr": "gammapistol",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "Seg_COTO_Gun_GammaPistol"
+	},
+	{
+		"abr": "macrostubber",
+		"price": 700,
+		"category": "Ranged weapons",
+		"defname": "Seg_COTO_Gun_Macrostubber"
+	},
+	{
+		"abr": "magoscassock",
+		"price": 322,
+		"category": "Apparel",
+		"defname": "Seg_COTO_Apparel_MagosCassock"
+	},
+	{
+		"abr": "magoshood",
+		"price": 310,
+		"category": "Apparel",
+		"defname": "Seg_COTO_Apparel_MagosHood"
+	},
+	{
+		"abr": "magospowerpack",
+		"price": 383,
+		"category": "Apparel",
+		"defname": "Seg_COTO_Apparel_MagosBackpack"
+	},
+	{
+		"abr": "magosrobe",
+		"price": 322,
+		"category": "Apparel",
+		"defname": "Seg_COTO_Apparel_MagosRobes"
+	},
+	{
+		"abr": "martianpowersword",
+		"price": 3333,
+		"category": "Mechanicus melee weapons",
+		"defname": "Seg_COTO_MeleeWeapon_PowerSword"
+	},
+	{
+		"abr": "mechanicusforgealtar",
+		"price": 1425,
+		"category": "Production",
+		"defname": "Seg_COTO_CraftingTable"
+	},
+	{
+		"abr": "omnissianaxe",
+		"price": 2008,
+		"category": "Mechanicus melee weapons",
+		"defname": "Seg_COTO_MeleeWeapon_OmnissianAxeBasic"
+	},
+	{
+		"abr": "phosphorblastpistol",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Seg_COTO_Gun_PhosphorBlastPistol"
+	},
+	{
+		"abr": "phosphorserpenta",
+		"price": 1750,
+		"category": "Ranged weapons",
+		"defname": "Seg_COTO_Gun_PhosphorSerpentia"
+	},
+	{
+		"abr": "plasmacaliver",
+		"price": 3008,
+		"category": "Ranged weapons",
+		"defname": "Seg_COTO_Gun_PlasmaCaliver"
+	},
+	{
+		"abr": "radiumcarbine",
+		"price": 975,
+		"category": "Ranged weapons",
+		"defname": "Seg_COTO_Gun_RadiumCarbine"
+	},
+	{
+		"abr": "radiumpistol",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "Seg_COTO_Gun_RadPistol"
+	},
+	{
+		"abr": "skitariibodysuit",
+		"price": 575,
+		"category": "Apparel",
+		"defname": "Seg_COTO_Apparel_SkitariiFatigues"
+	},
+	{
+		"abr": "skitariipowerpack",
+		"price": 375,
+		"category": "Apparel",
+		"defname": "Seg_COTO_Apparel_SkitariiBackpack"
+	},
+	{
+		"abr": "skitariirangerhood",
+		"price": 1167,
+		"category": "Apparel",
+		"defname": "Seg_COTO_Apparel_SkitariiRangerHood"
+	},
+	{
+		"abr": "skitariivanguardhelmet",
+		"price": 1000,
+		"category": "Apparel",
+		"defname": "Seg_COTO_Apparel_SkitariiVanguardHelmet"
+	},
+	{
+		"abr": "skitariiwarplate",
+		"price": 2250,
+		"category": "Apparel",
+		"defname": "Seg_COTO_Apparel_SkitariiWarPlate"
+	},
+	{
+		"abr": "tasergoad",
+		"price": 2300,
+		"category": "Mechanicus melee weapons",
+		"defname": "Seg_COTO_MeleeWeapon_TaserGoad"
+	},
+	{
+		"abr": "transuranicarquebus",
+		"price": 3050,
+		"category": "Ranged weapons",
+		"defname": "Seg_COTO_Gun_TransuranicArquebus"
 	}
 	],
-	"total": 1953
+	"total": 2036
 }
