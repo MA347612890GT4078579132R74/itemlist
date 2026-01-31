@@ -108,6 +108,12 @@
     "version": null
   },
   {
+    "author": "GwinnBleidd",
+    "name": "Better GC: Mothballed and World Pawns",
+    "steamId": "2982026860",
+    "version": "1.6.0.0"
+  },
+  {
     "author": "Elindis",
     "name": "Better Hot Springs",
     "steamId": null,
@@ -168,10 +174,22 @@
     "version": null
   },
   {
+    "author": "ShunTheWitch",
+    "name": "CVN Mechanoid Warfare Core",
+    "steamId": "3047564391",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Proxyer",
     "name": "Deep Scanner Patch",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
   },
   {
     "author": "telardo",
@@ -219,7 +237,7 @@
     "author": "Clashgore, Odzmang, BlackMarket420, Tittymcswaggy, Alite, Abomination, Epsilon, Maxim, Shun The Witch, Samael, Con and ThatHitmann",
     "name": "GrimWorld 40,000 - Framework",
     "steamId": "3119805903",
-    "version": "1.0.0.0"
+    "version": "1.0.0+bbfbc4c0c0173eda9015e5449f85b5dc9bd6103d"
   },
   {
     "author": "TSA",
@@ -384,10 +402,22 @@
     "version": "1.9.0.0"
   },
   {
+    "author": "maevi",
+    "name": "Security Clearance",
+    "steamId": "3634353108",
+    "version": "0.6.1+aa3e263c4e7ff11181edf64e73f0a25e792c6588"
+  },
+  {
     "author": " Original author: Captain Muscles (Nathan Harbour)\r\n    Since this fork: Arodoid\r\n    ",
     "name": "Semi Random Research: Progression Fork",
     "steamId": "3505290557",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Salvador143",
+    "name": "Shuttle Dock",
+    "steamId": "3648642429",
+    "version": "1.0.3.0"
   },
   {
     "author": "Arvkus, Proxyer and Lanilor",
@@ -420,10 +450,22 @@
     "version": null
   },
   {
+    "author": "Lambda",
+    "name": "Smuggler's Run",
+    "steamId": "3613289193",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.9.1"
+  },
+  {
+    "author": "Dvdyyz",
+    "name": "Spacer Pack - Repackaged",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Vis",
@@ -452,6 +494,12 @@
   {
     "author": "Meow",
     "name": "Tradable Meals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot",
     "steamId": null,
     "version": null
   },
@@ -504,12 +552,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Chemfuel Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
@@ -526,6 +568,12 @@
     "name": "Vanilla Furniture Expanded",
     "steamId": "1718190143",
     "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, Sokyran, Taranchuk and Erdelf",
@@ -564,6 +612,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk and Bread mo",
+    "name": "Vanilla Quests Expanded - The Generator",
+    "steamId": "3411401573",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, Taranchuk and Sarg Bjornson",
     "name": "Vanilla Races Expanded - Highmate",
     "steamId": "2995385834",
@@ -600,9 +654,9 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Poncho",
-    "name": "Automatic Hydroponics",
-    "steamId": "3528490718",
+    "author": "ThatHitmann",
+    "name": "Geneva Checklist",
+    "steamId": "3339044171",
     "version": "1.0.0.0"
   },
   {
@@ -654,6 +708,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Cooking Expanded",
     "steamId": null,
@@ -690,6 +750,12 @@
     "version": null
   },
   {
+    "author": "Poncho",
+    "name": "Automatic Hydroponics",
+    "steamId": "3528490718",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Elseud and Sir Van",
     "name": "Biotech Mechanoid Retexture",
     "steamId": null,
@@ -724,6 +790,12 @@
     "name": "Rustic Meal Retexture",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "REDACTED, Abomination, T H E S U S P E C T, A Random Cogboy and TwoLargeGayMen",
+    "name": "Segmentum - Core",
+    "steamId": "3654515542",
+    "version": "1.0.0+8658dddc03bad36a15e4ff79fb3ecf5640309523"
   },
   {
     "author": "SirRandoo",
@@ -782,6 +854,12 @@
   {
     "author": "Phonicmas, Mewn Goddess and Grim Cheese",
     "name": "RimDark 40k - Black Templars",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "REDACTED, Abomination, T H E S U S P E C T, A Random Cogboy and TwoLargeGayMen",
+    "name": "Segmentum - Children of the Omnissiah",
     "steamId": null,
     "version": null
   },
