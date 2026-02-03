@@ -12,6 +12,12 @@
     "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.9.2"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -276,12 +282,6 @@
     "version": "2025.8.10.12"
   },
   {
-    "author": "sumghai",
-    "name": "MedPod",
-    "steamId": "2153065191",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "erdelf",
     "name": "MinifyEverything",
     "steamId": "872762753",
@@ -351,7 +351,7 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.6.4"
+    "version": "1.6.5"
   },
   {
     "author": "Helixien",
@@ -384,12 +384,6 @@
     "version": null
   },
   {
-    "author": "aRandomKiwi",
-    "name": "RimThemes",
-    "steamId": "1668983184",
-    "version": "2025.0.1.2"
-  },
-  {
     "author": "TheLastBulletBender",
     "name": "Rimworld Exploration Mode",
     "steamId": "2941608795",
@@ -414,10 +408,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Stmast",
+    "name": "Shella Backgrounds",
+    "steamId": "2853407446",
+    "version": "1.6.0.0"
+  },
+  {
     "author": "Salvador143",
     "name": "Shuttle Dock",
     "steamId": "3648642429",
-    "version": "1.0.3.0"
+    "version": "1.0.4.0"
   },
   {
     "author": "Arvkus, Proxyer and Lanilor",
@@ -435,7 +435,7 @@
     "author": "Uuugggg",
     "name": "Smart Medicine - Continued",
     "steamId": "3526251680",
-    "version": "1.0.0+67ae2cffab391ab7594423703ca5e175bd64c2f8"
+    "version": "1.0.0+4adca2cec7a5c827b575af04fd4bbf758f665868"
   },
   {
     "author": "Sarg",
@@ -514,12 +514,6 @@
     "name": "Trait Rarity Colors",
     "steamId": "1751884355",
     "version": "1.6.0.0"
-  },
-  {
-    "author": "GonDragon",
-    "name": "UI Not Included: Customizable UI Overhaul",
-    "steamId": "2588873455",
-    "version": "1.2.9447.18333"
   },
   {
     "author": "1trickPwnyta",
@@ -642,12 +636,6 @@
     "version": "1.0.0+b3c7741bad50cdec5bc0316b790daedf753d6ae7"
   },
   {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.9.2"
-  },
-  {
     "author": "Helixien",
     "name": "Altered Carbon 2: ReSleeved",
     "steamId": "2196278117",
@@ -670,6 +658,12 @@
     "name": "Internal Armor Plates Standalone",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "sumghai",
+    "name": "MedPod",
+    "steamId": "2153065191",
+    "version": "1.0.0.0"
   },
   {
     "author": "Various",
@@ -700,6 +694,12 @@
     "name": "Twitch Toolkit",
     "steamId": "3013874066",
     "version": "2.0.10.0"
+  },
+  {
+    "author": "GonDragon",
+    "name": "UI Not Included: Customizable UI Overhaul",
+    "steamId": "2588873455",
+    "version": "1.2.9447.18333"
   },
   {
     "author": "Andromeda",
