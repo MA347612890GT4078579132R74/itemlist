@@ -219,7 +219,7 @@
     "author": "Zeracronius",
     "name": "Dynamic Trade Interface",
     "steamId": "3020706506",
-    "version": "1.6.0.4+83669dbe931cd3de14fb1825998c73af47165abd"
+    "version": "1.6.0.5+0ac410d2f54caef3dfb0d3d21ecf6bbc88573cd6"
   },
   {
     "author": "Vectorial1024",
@@ -250,12 +250,6 @@
     "name": "Intellectual Matters",
     "steamId": "3570236251",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Jaxe",
-    "name": "Interaction Bubbles",
-    "steamId": "1516158345",
-    "version": "4.2+22e6c6fce244bc45e278cc012ce945edac7b00b6"
   },
   {
     "author": "Mlie",
@@ -309,6 +303,12 @@
     "author": "cedaro",
     "name": "No Hopeless Romance",
     "steamId": "2964282061",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
     "version": "1.0.0.0"
   },
   {
@@ -417,7 +417,7 @@
     "author": "Salvador143",
     "name": "Shuttle Dock",
     "steamId": "3648642429",
-    "version": "1.0.4.0"
+    "version": "1.0.5.0"
   },
   {
     "author": "Arvkus, Proxyer and Lanilor",
@@ -435,7 +435,7 @@
     "author": "Uuugggg",
     "name": "Smart Medicine - Continued",
     "steamId": "3526251680",
-    "version": "1.0.0+4adca2cec7a5c827b575af04fd4bbf758f665868"
+    "version": "1.0.0+fe65a97d84d93f66273abed8ad9a08441f81ae5e"
   },
   {
     "author": "Sarg",
@@ -696,12 +696,6 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "GonDragon",
-    "name": "UI Not Included: Customizable UI Overhaul",
-    "steamId": "2588873455",
-    "version": "1.2.9447.18333"
-  },
-  {
     "author": "Andromeda",
     "name": "Useful Marks",
     "steamId": "3506573327",
@@ -868,5 +862,11 @@
     "name": "Intimacy - Gender Works",
     "steamId": "3534254491",
     "version": "0.1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0+b6d6595b7457219357c25e8cef1082652454b7f7"
   }
 ]
