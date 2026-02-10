@@ -1956,234 +1956,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has always seen his body as nothing more than a vessel. he does not care about the gender, age or looks of his body.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon 2: ReSleeved",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AC_FreeMind",
-      "name": "freemind"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy can change his sleeves as easily as someone else may change their clothes. he doesn’t care how often he switches sleeves or what sleeve he is currently riding.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon 2: ReSleeved",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AC_Sleever",
-      "name": "sleever"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is comfortable with isolation. he does not have a need for intimacy.",
-      "stats": [],
-      "conflicts": [
-        "affectionate",
-        "psychopath"
-      ],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [
-          "affectionate",
-          "psychopath"
-        ],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Intimacy - A Lovin' Expansion",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SEX_Solitary",
-      "name": "solitary"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is quite the social butterfly. he has an increased need for intimacy.",
-      "stats": [
-        "x200% global certainty loss factor",
-        "x150% intimacy need multiplier"
-      ],
-      "conflicts": [
-        "solitary",
-        "psychopath"
-      ],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [
-          "solitary",
-          "psychopath"
-        ],
-        "stats": [
-          "x200% global certainty loss factor",
-          "x150% intimacy need multiplier"
-        ],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Intimacy - A Lovin' Expansion",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SEX_Affectionate",
-      "name": "affectionate"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Psycasts Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VPE_Thrall",
-      "name": "thrall"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy used to function as a field medic. he has learned how to quickly apply first aid to fallen allies, sometimes too fast.",
-      "stats": [
-        "+50% medical tend speed",
-        "-10% medical tend quality"
-      ],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+50% medical tend speed",
-          "-10% medical tend quality"
-        ],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimDark 40k - Mankinds Finest",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BEWH_FieldMedic",
-      "name": "fieldmedic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a trained surgeon. he has undergone training in the fine arts of cutting people up and stiching them back together, hopefully fixing stuff that needed it midst the cutting.",
-      "stats": [
-        "+40% medical operation speed",
-        "+15% medical surgery success chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+40% medical operation speed",
-          "+15% medical surgery success chance"
-        ],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimDark 40k - Mankinds Finest",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BEWH_Surgeon",
-      "name": "surgeon"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a serf. he lives to serve their Space Marine masters.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimDark 40k - Mankinds Finest",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BEWH_Serf",
-      "name": "serf"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Ideology Expanded - Memes and Structures",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VME_Elder",
-      "name": "elder"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy's body accepts archite alterations with unnatural ease. he will never suffer rejections during the injection process.",
       "stats": [],
       "conflicts": [],
@@ -2255,6 +2027,234 @@
       },
       "defName": "VRE_Distressed",
       "name": "distressed"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has always seen his body as nothing more than a vessel. he does not care about the gender, age or looks of his body.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon 2: ReSleeved",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AC_FreeMind",
+      "name": "freemind"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy can change his sleeves as easily as someone else may change their clothes. he doesn’t care how often he switches sleeves or what sleeve he is currently riding.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon 2: ReSleeved",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AC_Sleever",
+      "name": "sleever"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Psycasts Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VPE_Thrall",
+      "name": "thrall"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy used to function as a field medic. he has learned how to quickly apply first aid to fallen allies, sometimes too fast.",
+      "stats": [
+        "+50% medical tend speed",
+        "-10% medical tend quality"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+50% medical tend speed",
+          "-10% medical tend quality"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimDark 40k - Mankinds Finest",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BEWH_FieldMedic",
+      "name": "fieldmedic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a trained surgeon. he has undergone training in the fine arts of cutting people up and stiching them back together, hopefully fixing stuff that needed it midst the cutting.",
+      "stats": [
+        "+40% medical operation speed",
+        "+15% medical surgery success chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+40% medical operation speed",
+          "+15% medical surgery success chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimDark 40k - Mankinds Finest",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BEWH_Surgeon",
+      "name": "surgeon"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a serf. he lives to serve their Space Marine masters.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimDark 40k - Mankinds Finest",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BEWH_Serf",
+      "name": "serf"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VME_Elder",
+      "name": "elder"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is comfortable with isolation. he does not have a need for intimacy.",
+      "stats": [],
+      "conflicts": [
+        "affectionate",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "affectionate",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Intimacy - A Lovin' Expansion",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SEX_Solitary",
+      "name": "solitary"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is quite the social butterfly. he has an increased need for intimacy.",
+      "stats": [
+        "x200% global certainty loss factor",
+        "x150% intimacy need multiplier"
+      ],
+      "conflicts": [
+        "solitary",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "solitary",
+          "psychopath"
+        ],
+        "stats": [
+          "x200% global certainty loss factor",
+          "x150% intimacy need multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Intimacy - A Lovin' Expansion",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SEX_Affectionate",
+      "name": "affectionate"
     }
   ],
   "races": [
