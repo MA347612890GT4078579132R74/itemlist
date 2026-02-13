@@ -2193,68 +2193,6 @@
       },
       "defName": "VME_Elder",
       "name": "elder"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is comfortable with isolation. he does not have a need for intimacy.",
-      "stats": [],
-      "conflicts": [
-        "affectionate",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "affectionate",
-          "psychopath"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Intimacy - A Lovin' Expansion",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SEX_Solitary",
-      "name": "solitary"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is quite the social butterfly. he has an increased need for intimacy.",
-      "stats": [
-        "x200% global certainty loss factor",
-        "x150% intimacy need multiplier"
-      ],
-      "conflicts": [
-        "solitary",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "solitary",
-          "psychopath"
-        ],
-        "stats": [
-          "x200% global certainty loss factor",
-          "x150% intimacy need multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Intimacy - A Lovin' Expansion",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SEX_Affectionate",
-      "name": "affectionate"
     }
   ],
   "races": [
