@@ -408,12 +408,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Stmast",
-    "name": "Shella Backgrounds",
-    "steamId": "2853407446",
-    "version": "1.6.0.0"
-  },
-  {
     "author": "Salvador143",
     "name": "Shuttle Dock",
     "steamId": "3648642429",
@@ -483,7 +477,7 @@
     "author": "Jellypowered",
     "name": "The Harvest",
     "steamId": "2010799801",
-    "version": "1.0.0.0"
+    "version": "0.1.0.0+18816337db5b061ce1ee3ddca47f951e0020aa4b"
   },
   {
     "author": "nry",
@@ -672,12 +666,6 @@
     "version": null
   },
   {
-    "author": "RebelRabbit, Taranchuk, ilyvion, Vectorial1024 and AssassinsBro",
-    "name": "Quality Bionics Remastered",
-    "steamId": "3528798857",
-    "version": "0.3.0"
-  },
-  {
     "author": "Helixien",
     "name": "ReSplice: Charmweavers",
     "steamId": "3131996691",
@@ -840,12 +828,6 @@
     "version": "1.0.2.0"
   },
   {
-    "author": "turkler",
-    "name": "Intimacy - A Lovin' Expansion",
-    "steamId": "3498422643",
-    "version": "0.1.0.0"
-  },
-  {
     "author": "Phonicmas, Mewn Goddess and Grim Cheese",
     "name": "RimDark 40k - Black Templars",
     "steamId": null,
@@ -856,12 +838,6 @@
     "name": "Segmentum - Children of the Omnissiah",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "turkler",
-    "name": "Intimacy - Gender Works",
-    "steamId": "3534254491",
-    "version": "0.1.0.0"
   },
   {
     "author": "Dubwise",
